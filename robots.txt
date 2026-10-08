@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-rf1ibo.plugshub.ge/sitemap.xml
